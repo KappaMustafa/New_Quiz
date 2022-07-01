@@ -13,6 +13,7 @@ nextButton.addEventListener('click', () =>{
 
 
 
+
 function startGame(){
     console.log("started")
     startButton.classList.add("hide")
