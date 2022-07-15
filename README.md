@@ -5,6 +5,6 @@
 * https://github.com/KappaMustafa/quiz-hw.git
 
 ## MY PICS
-* ![quiz](/assets/quiz%20remake.png)
-* ![quiz](/assets/quiz%20remake%202.png)
+* ![quiz](/assets/quizRemake.png)
+* ![quiz](/assets/quizRemake2.png)
 
