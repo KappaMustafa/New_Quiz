@@ -5,6 +5,6 @@
 * https://github.com/KappaMustafa/New_Quiz.git
 
 ## MY PICS
-* ![pic](./assets/quizRemake.png)
-* ![pic](./assets/quizRemake2.png)
+* ![pic](./assets/quizRemake.PNG)
+* ![pic](./assets/quizRemake2.PNG)
 
